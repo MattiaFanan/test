@@ -72,6 +72,3 @@ fabric.properties
 
 #venv
 /venv/
-
-#train dataset
-/train_dataset/*
